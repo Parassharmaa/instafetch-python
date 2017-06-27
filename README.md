@@ -40,5 +40,10 @@ $ pip install instfetch
 + [Kanav Arora](http://github.com/arorakanav11)
 + [Paras Sharmaa](http://github.com/parassharmaa)
 
+## Things to do:
++ Write Tests
++ Add more endpoints
++ Modify return data
+
 ## License
-[MIT]()
+[MIT](https://github.com/Parassharmaa/instafetch-python/blob/master/LICENSE)
