@@ -3,7 +3,7 @@ A python package to fetch public data from Instagram.
 
 ## Installation
 ``` bash
-$ pip install instfetch
+$ pip install instafetch
 ``` 
 
 ## Usage
